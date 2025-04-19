@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[https://github.com/0xParsaForge/0xParsaForge/blob/main/images/C++.gif](https://github.com/0xParsaForge/0xParsaForge/blob/main/0xParsaForge.mp4)">
+<img src="https://github.com/0xParsaForge/0xParsaForge/blob/main/images/0xParsaForge.gif">
 </h1>
 
 I am a passionate student exploring the art of coding, driven by a love for building innovative and practical solutions. My current skill set includes Python programming, C++ development, and crafting beautiful, responsive web designs with CSS.
