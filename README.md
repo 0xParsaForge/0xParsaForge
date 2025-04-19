@@ -50,5 +50,27 @@ Let’s connect and build something amazing! 🚀
 </div>
 </br>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img style="width: 45%" align="left" src="https://github-readme-stats.vercel.app/api?username=0xParsaForge&theme=react&show_icons=true&hide_border=true&count_private=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" style="width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xParsaForge&theme=react&show_icons=true&hide_border=true&layout=compact&count_private=true" />
+    </a>
+  </div>
+<br><br><br>
+<br><Br><br>
+<br><br><br>
 
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/5PuzQzuPOhBiVpr3SQKlX5">
+    <img src="[https://pl.scdn.co/images/pl/default/6bc03b8b7b2d3b75b4e0d6980aa28f0e5ff2b20e](https://open.spotify.com/playlist/5PuzQzuPOhBiVpr3SQKlX5?si=qNe9IzMbSciOJZNYOB3rPg)" width="400">
+  </a>
+  
+  [![Listen on Spotify](https://img.shields.io/badge/SPOTIFY-PLAY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5PuzQzuPOhBiVpr3SQKlX5)
+</div>
 
