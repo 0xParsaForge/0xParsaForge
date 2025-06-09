@@ -21,7 +21,7 @@ Let’s connect and build something amazing! 🚀
 - 🌍 &nbsp;  I'm based in Tehran, Iran.
 - 🧠  &nbsp; I'm learning JS.
 - 🤝 &nbsp; I'm open to collaborating on interesting projects.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/parsa-akbari-970ba6349/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn]() (*Private for now)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I play games and read IT related books.
 - ⚡ &nbsp; I'm secretly Batman... but don't tell anyone.
