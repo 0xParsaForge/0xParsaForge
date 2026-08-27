@@ -18,10 +18,11 @@ Let’s connect and build something amazing! 🚀
 
 - 🔭 &nbsp; I’m currently working on **nothing right now** 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0xParsaForge?tab=repositories). (*Private for now)
-- 🌍 &nbsp;  I'm based in Tehran, Iran.
-- 🧠  &nbsp; I'm learning JS.
+- 🌍 &nbsp;  I'm based in Qazvin, Iran.
+- 🧠  &nbsp; I'm learning JS & React.
 - 🤝 &nbsp; I'm open to collaborating on interesting projects.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn]() (*Private for now)
+- - 📫 &nbsp; You can also find me on [Telegram](https://t.me/OxParsam)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I play games and read IT related books.
 - ⚡ &nbsp; I'm secretly Batman... but don't tell anyone.
@@ -30,7 +31,7 @@ Let’s connect and build something amazing! 🚀
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/im.zenitsu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://github.com/0xParsaForge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/0xparsaforge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> </p>
+<p align="left"> <a href="https://discord.com/users/im.zenitsu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://github.com/0xParsaForge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/0xparsam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> </p>
 
 
 <br><br><br>
@@ -50,20 +51,6 @@ Let’s connect and build something amazing! 🚀
 </div>
 </br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img style="width: 45%" align="left" src="https://github-readme-stats.vercel.app/api?username=0xParsaForge&theme=react&show_icons=true&hide_border=true&count_private=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" style="width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xParsaForge&theme=react&show_icons=true&hide_border=true&layout=compact&count_private=true" />
-    </a>
-  </div>
-<br><br><br>
-<br><Br><br>
-<br><br><br>
 
 
 <div align="center">
