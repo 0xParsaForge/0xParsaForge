@@ -16,7 +16,7 @@ Let’s connect and build something amazing! 🚀
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **nothing right now** 
+- 🔭 &nbsp; I’m currently working on **something special ;)** 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0xParsaForge?tab=repositories). (*Private for now)
 - 🌍 &nbsp;  I'm based in Qazvin, Iran.
 - 🧠  &nbsp; I'm learning JS & React.
